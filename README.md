@@ -32,6 +32,7 @@
 
 | Проект | Описание | Стек |
 |---|---|---|
+| [panel_cutting](https://github.com/TalBkzt/panel_cutting) | Движок раскроя из Instrumental-M: гильотина и MaxRects, карта резов с учётом пропила, поиск раскладки | <img src="https://skillicons.dev/icons?i=dart" height="28" alt="Dart" /> |
 | [NeuroGlossAI](https://github.com/TalBkzt/NeuroGlossAI) | Приложение для изучения языков, запуск через Docker Compose | <img src="https://skillicons.dev/icons?i=fastapi,postgres,flutter,docker" height="28" alt="FastAPI, PostgreSQL, Flutter, Docker" /> |
 | [Python-finger-counter](https://github.com/TalBkzt/Python-finger-counter) | Считает поднятые пальцы по веб-камере в реальном времени | <img src="https://skillicons.dev/icons?i=python,opencv" height="28" alt="Python, OpenCV" /> |
 
